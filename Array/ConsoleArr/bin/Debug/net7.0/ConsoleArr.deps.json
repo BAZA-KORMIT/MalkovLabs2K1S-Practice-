@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ConsoleArr/1.0.0": {
+        "dependencies": {
+          "MalkovPractOct": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleArr.dll": {}
+        }
+      },
+      "MalkovPractOct/1.0.0": {
+        "runtime": {
+          "MalkovPractOct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleArr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MalkovPractOct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

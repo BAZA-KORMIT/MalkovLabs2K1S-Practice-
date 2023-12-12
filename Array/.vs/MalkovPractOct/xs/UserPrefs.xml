@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{9319A752-B843-44CB-9BFE-DC175B5A0407}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ConsoleArr PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MalkovPractOct/Array.cs">
+    <Files>
+      <File FileName="MalkovPractOct/Array.cs" Line="25" Column="10" />
+      <File FileName="ArrayTest/ArrTests.cs" Line="45" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MalkovPractOct" expanded="True">
+            <Node name="MalkovPractOct" expanded="True">
+              <Node name="Array.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MalkovPractOct">
+            <Node name="ArrayTest" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ArrayTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MalkovPractOct PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

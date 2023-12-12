@@ -1,0 +1,15 @@
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/MalkovPractOct/MalkovPractOct/obj/Debug/net7.0/MalkovPractOct.csproj.AssemblyReference.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/MalkovPractOct/MalkovPractOct/obj/Debug/net7.0/MalkovPractOct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/MalkovPractOct/MalkovPractOct/obj/Debug/net7.0/MalkovPractOct.AssemblyInfoInputs.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/MalkovPractOct/MalkovPractOct/obj/Debug/net7.0/MalkovPractOct.AssemblyInfo.cs
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/MalkovPractOct/MalkovPractOct/obj/Debug/net7.0/MalkovPractOct.csproj.CoreCompileInputs.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/MalkovPractOct/MalkovPractOct/bin/Debug/net7.0/MalkovPractOct
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/MalkovPractOct/MalkovPractOct/bin/Debug/net7.0/MalkovPractOct.deps.json
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/MalkovPractOct/MalkovPractOct/bin/Debug/net7.0/MalkovPractOct.runtimeconfig.json
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/MalkovPractOct/MalkovPractOct/bin/Debug/net7.0/MalkovPractOct.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/MalkovPractOct/MalkovPractOct/bin/Debug/net7.0/MalkovPractOct.pdb
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/MalkovPractOct/MalkovPractOct/obj/Debug/net7.0/MalkovPractOct.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/MalkovPractOct/MalkovPractOct/obj/Debug/net7.0/refint/MalkovPractOct.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/MalkovPractOct/MalkovPractOct/obj/Debug/net7.0/MalkovPractOct.pdb
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/MalkovPractOct/MalkovPractOct/obj/Debug/net7.0/MalkovPractOct.genruntimeconfig.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/MalkovPractOct/MalkovPractOct/obj/Debug/net7.0/ref/MalkovPractOct.dll

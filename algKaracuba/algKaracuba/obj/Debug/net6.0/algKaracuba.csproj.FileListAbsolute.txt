@@ -1,0 +1,15 @@
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/algKaracuba/algKaracuba/bin/Debug/net6.0/algKaracuba
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/algKaracuba/algKaracuba/bin/Debug/net6.0/algKaracuba.deps.json
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/algKaracuba/algKaracuba/bin/Debug/net6.0/algKaracuba.runtimeconfig.json
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/algKaracuba/algKaracuba/bin/Debug/net6.0/algKaracuba.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/algKaracuba/algKaracuba/bin/Debug/net6.0/algKaracuba.pdb
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/algKaracuba/algKaracuba/obj/Debug/net6.0/algKaracuba.csproj.AssemblyReference.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/algKaracuba/algKaracuba/obj/Debug/net6.0/algKaracuba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/algKaracuba/algKaracuba/obj/Debug/net6.0/algKaracuba.AssemblyInfoInputs.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/algKaracuba/algKaracuba/obj/Debug/net6.0/algKaracuba.AssemblyInfo.cs
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/algKaracuba/algKaracuba/obj/Debug/net6.0/algKaracuba.csproj.CoreCompileInputs.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/algKaracuba/algKaracuba/obj/Debug/net6.0/algKaracuba.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/algKaracuba/algKaracuba/obj/Debug/net6.0/refint/algKaracuba.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/algKaracuba/algKaracuba/obj/Debug/net6.0/algKaracuba.pdb
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/algKaracuba/algKaracuba/obj/Debug/net6.0/algKaracuba.genruntimeconfig.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2Kexam/algKaracuba/algKaracuba/obj/Debug/net6.0/ref/algKaracuba.dll
