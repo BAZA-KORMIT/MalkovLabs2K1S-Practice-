@@ -1,6 +1,6 @@
 ﻿using System.Drawing;
 
-namespace Meets
+namespace Datings
 {
     class Program
     {

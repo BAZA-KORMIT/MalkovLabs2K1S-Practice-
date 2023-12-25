@@ -1,0 +1,15 @@
+/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/bin/Debug/net7.0/DatingsDTS
+/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/bin/Debug/net7.0/DatingsDTS.deps.json
+/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/bin/Debug/net7.0/DatingsDTS.runtimeconfig.json
+/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/bin/Debug/net7.0/DatingsDTS.dll
+/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/bin/Debug/net7.0/DatingsDTS.pdb
+/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/obj/Debug/net7.0/DatingsDTS.csproj.AssemblyReference.cache
+/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/obj/Debug/net7.0/DatingsDTS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/obj/Debug/net7.0/DatingsDTS.AssemblyInfoInputs.cache
+/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/obj/Debug/net7.0/DatingsDTS.AssemblyInfo.cs
+/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/obj/Debug/net7.0/DatingsDTS.csproj.CoreCompileInputs.cache
+/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/obj/Debug/net7.0/DatingsDTS.dll
+/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/obj/Debug/net7.0/refint/DatingsDTS.dll
+/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/obj/Debug/net7.0/DatingsDTS.pdb
+/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/obj/Debug/net7.0/DatingsDTS.genruntimeconfig.cache
+/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/obj/Debug/net7.0/ref/DatingsDTS.dll

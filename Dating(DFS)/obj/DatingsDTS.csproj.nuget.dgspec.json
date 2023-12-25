@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/MeetsOlymp.csproj": {}
+    "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/DatingsDTS.csproj": {}
   },
   "projects": {
-    "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/MeetsOlymp.csproj": {
+    "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/DatingsDTS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/MeetsOlymp.csproj",
-        "projectName": "MeetsOlymp",
-        "projectPath": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/MeetsOlymp.csproj",
+        "projectUniqueName": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/DatingsDTS.csproj",
+        "projectName": "DatingsDTS",
+        "projectPath": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/DatingsDTS.csproj",
         "packagesPath": "/Users/vladislavkirillov/.nuget/packages/",
         "outputPath": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S-Practice-/Dating(DFS)/obj/",
         "projectStyle": "PackageReference",
